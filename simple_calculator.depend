@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672669599 source:c:\users\harun\desktop\c projects\simple_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
